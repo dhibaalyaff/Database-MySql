@@ -1,4 +1,4 @@
-
+--
 -- Membuat Database Toko
 CREATE DATABASE dbToko;
 
